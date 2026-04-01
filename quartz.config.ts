@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "spankadin.github.io/SarosQuartz",
+    baseUrl: "spankadin.github.io/SarosQuartz/index.html",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
